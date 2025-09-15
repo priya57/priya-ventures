@@ -32,7 +32,7 @@ business-development/
 reference-library/
 ├── Essential-Reading-List.md            # Must-read business books
 ├── 1000-Essential-Books.md             # Comprehensive book collection
-├── top-1000-ted-talks-complete.md      # Curated TED talks
+├── 1000-ted-talks-complete.md          # Complete TED talks collection
 ├── Tools-and-Resources.md              # Business tools & software
 ├── Emerging-Trends-Resources.md        # Industry trends & analysis
 └── Big-Business-Ideas.md               # Innovation & opportunity insights
@@ -75,7 +75,7 @@ progress-tracking/
 
 ### 📚 **Knowledge Expansion Track**
 - **Books**: [1000-Essential-Books.md](reference-library/1000-Essential-Books.md)
-- **TED Talks**: [top-1000-ted-talks-complete.md](reference-library/top-1000-ted-talks-complete.md)
+- **TED Talks**: [1000-ted-talks-complete.md](reference-library/1000-ted-talks-complete.md)
 - **Tools**: [Tools-and-Resources.md](reference-library/Tools-and-Resources.md)
 - **Trends**: [Emerging-Trends-Resources.md](reference-library/Emerging-Trends-Resources.md)
 

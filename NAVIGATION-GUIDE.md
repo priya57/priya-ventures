@@ -58,7 +58,7 @@
 **Key Files:**
 - **[Essential-Reading-List.md](reference-library/Essential-Reading-List.md)** - Must-read business books
 - **[1000-Essential-Books.md](reference-library/1000-Essential-Books.md)** - Comprehensive book collection
-- **[top-1000-ted-talks-complete.md](reference-library/top-1000-ted-talks-complete.md)** - Curated TED talks
+- **[1000-ted-talks-complete.md](reference-library/1000-ted-talks-complete.md)** - Complete TED talks collection
 - **[Tools-and-Resources.md](reference-library/Tools-and-Resources.md)** - Business tools & software
 - **[Emerging-Trends-Resources.md](reference-library/Emerging-Trends-Resources.md)** - Industry trends & analysis
 - **[Big-Business-Ideas.md](reference-library/Big-Business-Ideas.md)** - Innovation opportunities
@@ -129,7 +129,7 @@
 
 ### 📚 **Knowledge Expansion Track**
 1. **Books**: [1000-Essential-Books.md](reference-library/1000-Essential-Books.md) - Comprehensive reading list
-2. **Videos**: [top-1000-ted-talks-complete.md](reference-library/top-1000-ted-talks-complete.md) - TED talks collection
+2. **Videos**: [1000-ted-talks-complete.md](reference-library/1000-ted-talks-complete.md) - Complete TED talks collection
 3. **Schedule**: [business-talks-schedule.md](study-plans/business-talks-schedule.md) - Viewing schedule
 4. **Tools**: [Tools-and-Resources.md](reference-library/Tools-and-Resources.md) - Business software
 
