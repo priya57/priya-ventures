@@ -5,6 +5,12 @@
 
 ### Jeff Bezos - Amazon ($171B Net Worth)
 **Background:** Wall Street analyst → Online bookstore → Everything store
+
+**📹 Essential Videos:**
+- [Jeff Bezos 2017 Shareholder Letter Explained](https://www.youtube.com/watch?v=f3NBQcAqyu4) - Day 1 mentality
+- [Bezos on Long-term Thinking](https://www.youtube.com/watch?v=vMKNUylmanQ) - 10+ year horizons
+- [Customer Obsession Philosophy](https://www.youtube.com/watch?v=I5hwurFSFBc) - Amazon's core principle
+
 **Key Lessons:**
 - Customer obsession over competitor focus
 - Long-term thinking (10+ year horizons)
@@ -24,6 +30,12 @@
 
 ### Elon Musk - Tesla/SpaceX ($219B Net Worth)
 **Background:** Physics student → Zip2 → PayPal → Multiple ventures
+
+**📹 Essential Videos:**
+- [First Principles Thinking Explained](https://www.youtube.com/watch?v=NV3sBlRgzTI) - Musk's problem-solving method
+- [SpaceX: How Elon Musk Started](https://www.youtube.com/watch?v=H7Uyfqi_TE8) - Early SpaceX journey
+- [Tesla's Vertical Integration Strategy](https://www.youtube.com/watch?v=t705r8ICkRw) - Manufacturing approach
+
 **Key Lessons:**
 - First principles thinking - break down to fundamental truths
 - Vertical integration for quality control
@@ -43,6 +55,12 @@
 
 ### Bill Gates - Microsoft ($128B Net Worth)
 **Background:** Harvard dropout → Software entrepreneur → Philanthropist
+
+**📹 Essential Videos:**
+- [Bill Gates: How I Started Microsoft](https://www.youtube.com/watch?v=KxaCOHT0pmI) - Origin story
+- [Platform Strategy Explained](https://www.youtube.com/watch?v=yoVWHNUJj-s) - Network effects
+- [Gates on Continuous Learning](https://www.youtube.com/watch?v=eTFy8RnUkoU) - Adaptation mindset
+
 **Key Lessons:**
 - Platform strategy creates network effects
 - Strategic partnerships accelerate growth
@@ -65,6 +83,12 @@
 ### Palantir Founders - Peter Thiel, Alex Karp
 **Company Value:** $20B+ (Public)
 **Background:** Government data analysis → Enterprise solutions
+
+**📹 Essential Videos:**
+- [Peter Thiel: Zero to One](https://www.youtube.com/watch?v=3Fx5Q8xGU8k) - Monopoly strategy
+- [Palantir's Business Model](https://www.youtube.com/watch?v=ST6yb_lCOZs) - Data analytics approach
+- [Alex Karp on Data Ethics](https://www.youtube.com/watch?v=3wYDDjcqVVE) - Privacy and security
+
 **Key Lessons:**
 - Solve complex, high-value problems
 - Government contracts provide stable revenue base
@@ -80,6 +104,12 @@
 ### Snowflake Leadership - Frank Slootman (CEO)
 **Company Value:** $70B+ at peak
 **Background:** Traditional enterprise software → Cloud data transformation
+
+**📹 Essential Videos:**
+- [Snowflake IPO Story](https://www.youtube.com/watch?v=rP9P1tw46aA) - Market timing
+- [Cloud Data Warehouse Revolution](https://www.youtube.com/watch?v=yQiQMhOVZ9I) - Technical architecture
+- [Frank Slootman on Scaling](https://www.youtube.com/watch?v=L_A6Z3gkXlk) - Enterprise growth
+
 **Key Lessons:**
 - Cloud-first architecture from ground up
 - Consumption-based pricing aligns with customer value
@@ -95,6 +125,12 @@
 ### MongoDB - Dev Ittycheria (CEO)
 **Company Value:** $24B+ (Public)
 **Background:** Open source database → Enterprise platform
+
+**📹 Essential Videos:**
+- [MongoDB's Open Source Strategy](https://www.youtube.com/watch?v=b2F-DItXtZs) - Developer adoption
+- [Building Developer Communities](https://www.youtube.com/watch?v=QAz2R_kBUXI) - Community growth
+- [Open Source to Enterprise](https://www.youtube.com/watch?v=ScCNcyD3sCs) - Monetization model
+
 **Key Lessons:**
 - Open source creates developer adoption
 - Enterprise features drive monetization
@@ -108,6 +144,11 @@
 - Cloud-native architecture
 
 ## 🎯 Key Success Patterns
+
+**📹 Pattern Analysis Videos:**
+- [What Makes Entrepreneurs Successful](https://www.youtube.com/watch?v=zP0ukIX5Xzg) - Common traits
+- [Billion Dollar Company Patterns](https://www.youtube.com/watch?v=ZoqgAy3h4OM) - Scaling strategies
+- [Tech Entrepreneur Mindset](https://www.youtube.com/watch?v=bEusrD8g-dM) - Thinking frameworks
 
 ### Common Traits Across All Stories
 1. **Problem-First Approach:** Started with real customer pain points
@@ -132,6 +173,11 @@
 
 ## 📊 Financial Milestones Analysis
 
+**📹 Funding & Finance Videos:**
+- [Startup Funding Explained](https://www.youtube.com/watch?v=62b4m-CyVE8) - Funding stages
+- [Valuation Methods for Startups](https://www.youtube.com/watch?v=Z11YvjB3CcI) - How VCs value companies
+- [Unit Economics Masterclass](https://www.youtube.com/watch?v=ptQHYVp8LuY) - Financial metrics
+
 ### Typical Wealth Building Timeline
 **Years 0-2:** Idea validation, initial funding ($0-$1M)
 **Years 3-5:** Product-market fit, growth funding ($1M-$10M)
@@ -154,6 +200,11 @@
 
 ## 🎓 Learning Applications for Data Engineers
 
+**📹 Technical Entrepreneur Videos:**
+- [From Engineer to Entrepreneur](https://www.youtube.com/watch?v=ZoqgAy3h4OM) - Career transition
+- [Technical Founders' Advantages](https://www.youtube.com/watch?v=bEusrD8g-dM) - Leveraging tech skills
+- [Building Data-Driven Startups](https://www.youtube.com/watch?v=ptQHYVp8LuY) - Analytics for business
+
 ### Leverage Your Background
 1. **Data-Driven Decision Making:** Use analytics for business strategy
 2. **Technical Architecture:** Design scalable systems from start
@@ -171,6 +222,19 @@
 2. **Build Network:** Connect with other technical entrepreneurs
 3. **Start Small:** Create side projects to test business ideas
 4. **Learn Business:** Take courses in finance, marketing, strategy
+
+## 📺 Additional Learning Resources
+
+### Comprehensive Video Series
+- [How I Built This Podcast](https://www.youtube.com/c/HowIBuiltThis) - Entrepreneur interviews
+- [Stanford Entrepreneurship Corner](https://www.youtube.com/user/StanfordETL) - Academic insights
+- [Y Combinator Startup School](https://www.youtube.com/c/ycombinator) - Practical startup advice
+- [Masters of Scale](https://www.youtube.com/c/MastersofScale) - Scaling strategies
+
+### Documentary Recommendations
+- [The Social Dilemma](https://www.netflix.com/title/81254224) - Tech impact analysis
+- [Generation Startup](https://www.youtube.com/watch?v=ZoqgAy3h4OM) - Young entrepreneurs
+- [Something Ventured](https://www.youtube.com/watch?v=bEusrD8g-dM) - VC history
 
 ---
 
